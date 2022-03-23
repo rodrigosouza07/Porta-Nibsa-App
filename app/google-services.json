@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829834236476",
+    "project_id": "portal-nibsa",
+    "storage_bucket": "portal-nibsa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829834236476:android:5f84e17b282a8eec6ae939",
+        "android_client_info": {
+          "package_name": "com.example.portalnibsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829834236476-s9avn8gjudpeggmo5g80hcsp4t8rh84v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxQSNZMXM1gP5-pSo_1Pbcqd9MKmzEzG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829834236476-s9avn8gjudpeggmo5g80hcsp4t8rh84v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

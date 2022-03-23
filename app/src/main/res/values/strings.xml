@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Portal Nibsa</string>
+    <string name="cadastro">registrar</string>
+    <string name="registro">Não tem cadastro, registre-se cliquando aqui</string>
+</resources>
