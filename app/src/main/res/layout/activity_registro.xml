@@ -83,7 +83,7 @@
         app:layout_constraintTop_toBottomOf="@+id/txtemail" />
 
     <Button
-        android:id="@+id/btnReg"
+        android:id="@+id/btreg"
         android:layout_width="328dp"
         android:layout_height="53dp"
         android:layout_gravity="center"
